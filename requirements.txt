@@ -1,5 +1,5 @@
 os
-cv2
+opencv-python
 numpy
 random
 matplotlib
