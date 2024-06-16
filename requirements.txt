@@ -1,7 +1,5 @@
-os
 opencv-python
 numpy
-random
 matplotlib
-Scikit-Learn
-tensorflows
+scikit-learn
+tensorflow
