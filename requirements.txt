@@ -1,10 +1,7 @@
-import streamlit as st
-import os
-import cv2 as cv
-import numpy as np
-import random
-from matplotlib import pyplot as plt
-from sklearn.model_selection import train_test_split
-import tensorflow as tf
-from tensorflow.keras import datasets, layers, models
-from tensorflow.keras.preprocessing.image import ImageDataGenerator
+os
+cv2
+numpy
+random
+matplotlib
+Scikit-Learn
+tensorflows
